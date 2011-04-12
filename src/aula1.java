@@ -9,4 +9,8 @@ public class aula1 {
 
 	}
 
+	
+	 public void novoMetodo(){
+		 
+	 }
 }
